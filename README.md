@@ -7,13 +7,13 @@ It activates a **relay-controlled pump** only in the **evening**, when **soil is
 
 ## 🚀 Features
 
-- 🌱 **Soil Moisture Sensor** — detects when the soil is dry  
-- ☀️ **LDR Sensor (Digital)** — ensures watering happens only in the **evening**  
-- 🌧️ **Rain Sensor** — prevents watering when it's raining  
+-  **Soil Moisture Sensor** — detects when the soil is dry  
+-  **LDR Sensor (Digital)** — ensures watering happens only in the **evening**  
+-  **Rain Sensor** — prevents watering when it's raining  
 - 💡 **LED Indicators**  
   - Green LED → Pump ON  
   - Red LED → Danger / Pump OFF  
-- ⚡ **Relay + Pump** — automatic water control (Active HIGH type)
+-  **Relay + Pump** — automatic water control (Active HIGH type)
 
 ---
 
@@ -61,12 +61,6 @@ It activates a **relay-controlled pump** only in the **evening**, when **soil is
 
 ---
 
-## 💻 Arduino Code
-
-Main code file: [`Smart_Agriculture_UNO.ino`](Smart_Agriculture_UNO.ino)
-
----
-
 ## 🔋 Power Setup
 
 - Arduino UNO powered via USB or 5V adapter  
@@ -77,14 +71,11 @@ Main code file: [`Smart_Agriculture_UNO.ino`](Smart_Agriculture_UNO.ino)
 
 ## 🧩 Future Enhancements
 
-- 🌐 Add ESP8266 / ESP32 for Blynk IoT monitoring  
-- 📊 Display sensor values on LCD or OLED  
-- 📱 Control and monitor from smartphone  
-- ☁️ Send data to ThingSpeak or Firebase  
+- Add ESP8266 / ESP32 for Blynk IoT monitoring  
+- Display sensor values on LCD or OLED  
+- Control and monitor from smartphone  
+- Send data to ThingSpeak or Firebase  
 
 ---
 
-## 📸 Images
-
-Add your circuit diagram and real project photos here:
 

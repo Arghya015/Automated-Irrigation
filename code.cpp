@@ -9,7 +9,7 @@
 #define RED_LED 8
 #define RELAY_PIN 9        // Relay control (Active HIGH)
 
-// --- Thresholds (tune as needed) ---
+// --- Thresholds  ---
 int soilDryThreshold = 600;    // higher = dryer soil
 int rainDryThreshold = 300;    // higher = no rain
 
